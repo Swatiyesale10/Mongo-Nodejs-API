@@ -1,0 +1,22 @@
+{
+  "name": "mongo-nodejs-api",
+  "version": "1.0.0",
+  "description": "nodejs api building with mongodb express",
+  "main": "api.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "swatiyesale10"
+  },
+  "author": "swati",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0"
+  }
+}
